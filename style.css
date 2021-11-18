@@ -1,0 +1,28 @@
+
+
+.header{
+    background-color: #56c9d8;
+    display: flex;
+    justify-content: space-between;
+    border: solid;
+    border-color: #d641ca;
+    border-width: 10px;
+    
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+body{
+    background-color: #4cfa72;
+}
+.name{
+    color: #50336b;
+    margin-left: 50%;
+}
